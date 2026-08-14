@@ -1,7 +1,90 @@
-Atividade proposta usando Vanila JS.
-Link da atividade
+# 🧠 Jogo da Memória – Memória em Família
 
-https://github.com/edilainesolde2024-blip/memoria-familia.git
-https://memoria-familia.vercel.app/
+## 📚 Atividade
+
+Projeto desenvolvido como atividade prática utilizando **Vanilla JavaScript (JavaScript puro)**.
+
+A proposta foi desenvolver um **Jogo da Memória** utilizando HTML, CSS e JavaScript, trabalhando conceitos de desenvolvimento Front-End, manipulação do DOM, eventos e lógica de programação.
+
+## 🎯 Objetivo
+
+Criar um jogo da memória interativo utilizando fotos, proporcionando uma experiência divertida e, ao mesmo tempo, criando uma **memória afetiva da família**.
+
+A escolha das fotos pessoais torna o projeto mais especial, transformando uma atividade de programação em uma lembrança familiar.
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Git e GitHub
+* Vercel
+
+## 🎮 Funcionalidades
+
+* 🃏 Cartas com imagens da família
+* 🔄 Cartas que podem ser viradas
+* 🧠 Identificação dos pares
+* 🏆 Contagem das jogadas
+* 🔁 Opção para reiniciar o jogo
+* 📱 Interface adaptável para diferentes tamanhos de tela
+
+## 📂 Estrutura do projeto
+
+```text
+memoria-familia/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── foto1.jpeg
+├── foto2.jpeg
+├── foto3.jpeg
+├── foto4.jpeg
+├── foto5.jpeg
+├── foto6.jpeg
+├── foto7.jpeg
+├── foto8.jpeg
+└── verso.jpeg
+```
+
+## 💻 Desenvolvimento
+
+O projeto foi desenvolvido utilizando **Vanilla JS**, sem a utilização de frameworks ou bibliotecas externas de JavaScript.
+
+Durante o desenvolvimento foram utilizados conceitos como:
+
+* Manipulação do DOM;
+* Eventos de clique;
+* Funções JavaScript;
+* Estruturas condicionais;
+* Arrays;
+* Controle de estado das cartas;
+* Comparação de pares;
+* Manipulação de classes CSS.
+
+## 🌐 Acesse o projeto
+
+### 📌 Repositório no GitHub
+
+[🔗 Memória em Família – GitHub](https://github.com/edilainesolde2024-blip/memoria-familia.git)
+
+### 🎮 Jogue online
+
+[🔗 Memória em Família – Vercel](https://memoria-familia.vercel.app/)
+
+## ❤️ Memória afetiva
+
+Mais do que um exercício de programação, este projeto foi pensado para guardar momentos especiais através de fotografias da família.
+
+Cada carta representa uma lembrança e, ao encontrar os pares, o jogo proporciona uma forma simples e divertida de **relembrar momentos importantes em família**.
+
+## 👩‍💻 Autora
+
+**Edilaine Paulino Solde**
+
+Projeto desenvolvido como atividade acadêmica de **Front-End**, utilizando Vanilla JavaScript.
+
 
 
